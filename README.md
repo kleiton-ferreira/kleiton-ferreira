@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div>
   <a href="github.com/hugofigueiroa"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleiton-ferreira&show_icons=true&theme=dracula#gh-dark-mode-only">
